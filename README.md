@@ -1,9 +1,9 @@
 # Simple Flexbox grid
 
-run:
+Run:
 
 `npm i`
 
-finally
+Finally
 
 `npm run start`
